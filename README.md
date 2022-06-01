@@ -45,7 +45,7 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | 11:00 | Applications: Measurement Based Quantum Computing |
 | 12:00 | Panel: Research Topics in Quantum Computing |
 | Break | |
-| 14:00 | Introduction to Qiskit Runtime |
+| 14:00 | Introduction to Qiskit Application Modules |
 | 15:00 | Qiskit Programming Challenge |
 | 16:00 | _Project Pitching / Team Formation_ |
 
