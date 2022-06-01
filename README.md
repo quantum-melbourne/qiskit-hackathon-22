@@ -7,7 +7,7 @@
 
 Check the [`preparation&installation`](preparation%26installation.md) note for things to do before the hackathon
 
-### Coaches
+### Mentors
 
 #### Project Ideas
 
