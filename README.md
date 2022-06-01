@@ -35,7 +35,6 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | Break | |
 | 14:00 | Introduction to Qiskit |
 | 15:00 | Qiskit Blocks Social Challenge |
-| 16:00 | _Project Pitching / Team Formation_ |
 
 
 ### Day 2 Quantum Applications
@@ -47,7 +46,7 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | 12:00 | Panel: Research Topics in Quantum Computing |
 | Break | |
 | 14:00 | Introduction to Qiskit Runtime |
-| 15:00 | Qiskit Programming Social Challenge |
+| 15:00 | Qiskit Programming Challenge |
 | 16:00 | _Project Pitching / Team Formation_ |
 
 
