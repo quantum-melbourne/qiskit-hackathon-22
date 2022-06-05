@@ -40,8 +40,8 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 ### Day 2 Quantum Applications
 | Tuesday (July 5) |  |
 | -------------- | --------------------------------- |
-| 09:00 | Applications: QSVM |
-| 10:00 | Applications: Machine Learning |
+| 09:00 | Applications: Quantum Support Vector Machine |
+| 10:00 | Applications: Quantum Machine Learning |
 | 11:00 | Applications: Measurement Based Quantum Computing |
 | 12:00 | Panel: Research Topics in Quantum Computing |
 | Break | |
