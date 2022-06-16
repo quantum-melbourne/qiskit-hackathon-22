@@ -31,7 +31,7 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | 09:00 | Opening |
 | 09:30 | Introduction to Quantum Computing I |
 | 10:30 | Introduction to Quantum Computing II|
-| 11:30 | Panel: Why Quantum Computing? |
+| 12:00 | Panel: Why Quantum Computing? |
 | Break | |
 | 14:00 | Introduction to Qiskit |
 | 15:00 | Qiskit Blocks Social Challenge |
@@ -53,7 +53,7 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 ### Day 3 Hackathon
 | Wednesday (July 6)    |  |
 | -------------- | --------------------------------- |
-| 09:00 | Wecome / Team Formation Ends / Project Ideas Fixed |
+| 09:00 | Welcome / Team Formation Ends / Project Ideas Fixed |
 | 09:00 | Hackathon (Coding) |
 | 12:00 | Break & Lunch |
 | 13:00 | Hackathon 2 (Coding) |
