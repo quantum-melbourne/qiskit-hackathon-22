@@ -21,7 +21,7 @@ Prepare a 3 minute project pitch for Day 2.
 
 #### My team is ready. Let's hack!
 
-The project should have no more than 5 members. Ask a hackathon organiser to remove the label `members wanted` and add the label `group ready`. 
+The project should have no more than 5 members. Ask a hackathon organiser to remove the label `members wanted` and add the label `group is ready`. 
 
 
 ## Hackathon schedule
@@ -29,8 +29,7 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | Monday (July 4) |  |
 | -------------- | --------------------------------- |
 | 09:00 | Opening |
-| 09:30 | Introduction to Quantum Computing I |
-| 10:30 | Introduction to Quantum Computing II|
+| 09:30 | Introduction to Quantum Computing |
 | 12:00 | Panel: Why Quantum Computing? |
 | Break | |
 | 14:00 | Introduction to Qiskit |
@@ -54,7 +53,7 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | Wednesday (July 6)    |  |
 | -------------- | --------------------------------- |
 | 09:00 | Welcome / Team Formation Ends / Project Ideas Fixed |
-| 09:00 | Hackathon (Coding) |
+| 09:30 | Hackathon (Coding) |
 | 12:00 | Break & Lunch |
 | 13:00 | Hackathon 2 (Coding) |
 
@@ -65,5 +64,5 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | 09:00 | Hackathon 3 (Take lunch break in between) |
 | 14:00 | Coding Ends, Prepare for Presentation |
 | 15:00 | Final Team Presentations (3 minutes / team) |
-| 16:00 | Judging |
-| 16:30 | Awards Ceremony and Closing|
+| 16:30 | Judging |
+| 17:00 | Awards Ceremony and Closing|
