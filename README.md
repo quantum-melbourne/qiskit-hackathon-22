@@ -64,5 +64,5 @@ The project should have no more than 5 members. Ask a hackathon organiser to rem
 | 09:00 | Hackathon 3 (Take lunch break in between) |
 | 14:00 | Coding Ends, Prepare for Presentation |
 | 15:00 | Final Team Presentations (3 minutes / team) |
-| 16:30 | Judging |
-| 17:00 | Awards Ceremony and Closing|
+| 16:15 | Judging |
+| 16:45 | Awards Ceremony and Closing|
