@@ -26,6 +26,8 @@ The next two days were spent eagerly hacking away. On the final day of the hacka
 <b>4th Place Winners</b>  
 [Quantum Procedural Generation](https://github.com/aristaeus/qiskit-hackathon-2022): used Grover's algorithm to generate the growth of a flower and stems.
 
+<br/><br/>
+
 [Using Quantum Machine Learning to Model Financial Wellbeing](https://github.com/bmmlab/qiskit-hackathon): used quantum machine learning to predict the financial wellbeing of individuals.
 
 [A Visual Representation of Quantum Noise](https://github.com/monqis/wheel-of-fortune-game): created a quantum wheel of fortune based on the noise of IBM quantum computers.
